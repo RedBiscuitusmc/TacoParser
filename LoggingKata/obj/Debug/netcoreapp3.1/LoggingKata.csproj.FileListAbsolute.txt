@@ -1,0 +1,17 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\TacoBell-US-AL.csv
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.runtimeconfig.dev.json
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\LoggingKata.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\bin\Debug\netcoreapp3.1\GeoCoordinate.NetCore.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.csproj.CopyComplete
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\TACOPARSER\LoggingKata\obj\Debug\netcoreapp3.1\LoggingKata.genruntimeconfig.cache

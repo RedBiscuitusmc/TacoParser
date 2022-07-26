@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ow5DbBE69SYk0cveg9TlPKfPgwcXJoiBd3SLLjElS0amVRFpUlN2B7tqOD6gmmrCuYKl4Fu8B0YSx3uIy47uow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akashic Records\\Desktop\\ReposBoot\\TACOPARSER\\LoggingKata\\LoggingKata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akashic Records\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
